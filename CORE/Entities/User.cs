@@ -3,11 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
-git remote add origin https://github.com/KamalElsayedJR/AuthModule.git
-git branch -M main
-git push -u origin main
-*/
+
 namespace CORE.Entities
 {
     public class User

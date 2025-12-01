@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\MyGitHub\\AUTH\\AUTH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyGitHub\\AUTH\\AUTH\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyGitHub\\AUTH\\AUTH\\AuthAPI.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0FC34BA5-B9F2-480B-84DF-CE24D88CF758}|CORE\\CORE.csproj|d:\\mygithub\\auth\\auth\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC34BA5-B9F2-480B-84DF-CE24D88CF758}|CORE\\CORE.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\MyGitHub\\AUTH\\AUTH\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\MyGitHub\\AUTH\\AUTH\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-01T03:07:56.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthAPI.postman_collection.json",
-              "DocumentMoniker": "D:\\MyGitHub\\AUTH\\AUTH\\AuthAPI.postman_collection.json",
-              "RelativeDocumentMoniker": "AuthAPI.postman_collection.json",
-              "ToolTip": "D:\\MyGitHub\\AUTH\\AUTH\\AuthAPI.postman_collection.json",
-              "RelativeToolTip": "AuthAPI.postman_collection.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMCAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T03:07:56.014Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MyGitHub\\AUTH\\AUTH\\CORE\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CORE\\Entities\\User.cs",
+              "ToolTip": "D:\\MyGitHub\\AUTH\\AUTH\\CORE\\Entities\\User.cs",
+              "RelativeToolTip": "CORE\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:14:11.74Z",
               "EditorCaption": ""
             }
           ]
