@@ -1,0 +1,12 @@
+D:\MyGitHub\AUTH\AUTH\CORE\bin\Debug\net6.0\CORE.deps.json
+D:\MyGitHub\AUTH\AUTH\CORE\bin\Debug\net6.0\CORE.dll
+D:\MyGitHub\AUTH\AUTH\CORE\bin\Debug\net6.0\CORE.pdb
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.AssemblyInfoInputs.cache
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.AssemblyInfo.cs
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.csproj.CoreCompileInputs.cache
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.dll
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\refint\CORE.dll
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.pdb
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\ref\CORE.dll
+D:\MyGitHub\AUTH\AUTH\CORE\obj\Debug\net6.0\CORE.csproj.AssemblyReference.cache
