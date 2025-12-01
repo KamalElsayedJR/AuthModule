@@ -30,7 +30,7 @@ This project follows Clean Architecture with the following layers:
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**```bash
-git clone https://github.com/yourusername/authentication-api.git
+git clone https://github.com/KamalElsayedJR/AuthModule
 cd authentication-api
 ```
 2. **Configure Database Connection**
@@ -197,25 +197,8 @@ dotnet test
     "RefreshTokenExpiration": 7
     }
 ```
-## 🚨 Error Responses
 
-Common error response format:```json
-{
-    "errors": [
-        {
-            "code": "Error Code",
-            "message": "Error message"
-        }
-    ]
-}
-```
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## 📄 License
 
